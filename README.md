@@ -1,4 +1,4 @@
-## [Progressive Image Deraining Networks: A Better and Simpler Baseline]
+## [Semi-supervised Single Image Deraining with Discrete Wavelet Transform]
 
 ### Introduction
 In recent years, single image deraining has received considerable research interests.
