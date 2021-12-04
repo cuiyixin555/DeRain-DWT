@@ -36,7 +36,7 @@ bash test_cbam_dwt_SPA.py        # test models on SPA
 ```
 
 ###
-Average PSNR/SSIM values on four datasets:
+Average PSNR/SSIM values on five datasets:
 
 Dataset      |NLEDN[6]     |ReHEN[7]     |PReNet[8]    |RPDNet[9]    |MSPFN[10]    |Syn2Real[11] |AID-DWT(Ours)     
 -------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------
